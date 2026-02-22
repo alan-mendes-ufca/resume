@@ -1,6 +1,6 @@
 # Alan Mendes Vieira
 
-**Email:** alan.mendes@aluno.ufca.edu.br | **Telefone:** (88) 92148-0206
+**Email:** [alan.mendes@aluno.ufca.edu.br](mailto:alan.mendes@aluno.ufca.edu.br?subject=Assunto&body=Olá!) | **Telefone:** (88) 92148-0206
 **LinkedIn:** [linkedin.com/in/alan](https://www.linkedin.com/in/alan-mendes-vieira-52731b2b4/) | **GitHub:** [github.com/alan-mendes-ufca](https://github.com/alan-mendes-ufca)
 **Localização:** Barbalha, Ceará, Brasil
 
