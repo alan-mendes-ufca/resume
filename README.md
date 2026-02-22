@@ -4,13 +4,13 @@
 **LinkedIn:** [linkedin.com/in/alan](https://www.linkedin.com/in/alan-mendes-vieira-52731b2b4/) | **GitHub:** [github.com/alan-mendes-ufca](https://github.com/alan-mendes-ufca)
 **Localização:** Barbalha, Ceará, Brasil
 
-═══════════════════════════════════════════════════════════════
+---
 
 ## RESUMO PROFISSIONAL
 
 `Desenvolvedor Fullstack` em formação com conhecimentos práticos em **JavaScript** (React, Next.js, Node.js) e **Python** (Flask), com foco em boas práticas de engenharia de software. Conhecimento em **bancos de dados relacionais** (PostgreSQL, SQLite), **Docker**, **CI/CD** (GitHub Actions) e **testes automatizados** (Jest, Pytest). Desenvolvimento colaborativo com **Git/GitHub** seguindo **Conventional Commits** através de projetos acadêmicos e pessoais.
 
-═══════════════════════════════════════════════════════════════
+---
 
 ## HABILIDADES TÉCNICAS
 
@@ -24,7 +24,7 @@
 | **Ferramentas & DevOps**   | Git, Docker, Docker Compose, GitHub Actions, ESLint, Prettier, Husky, Ruff |
 | **Metodologias & Padrões** | TDD, POO, Conventional Commits, MVC                                        |
 
-═══════════════════════════════════════════════════════════════
+---
 
 ## PROJETOS
 
@@ -42,7 +42,7 @@
   - Testes automatizados com Jest (unitários + integração)
   - Documentação técnica extensa (67KB) cobrindo protocolos, DNS, deploy e arquitetura
 
-═══════════════════════════════════════════════════════════════
+---
 
 ### 🥈 DungeonPy (_em desenvolvimento_) — Jogo Dungeon Crawler (Projeto em equipe · 5 pessoas)
 
@@ -104,6 +104,8 @@
   - Organização final das classes/módulos — separação de responsabilidades (Task 16)
   - Criação de testes unitários e documentação (README)
 
+---
+
 ## FORMAÇÃO ACADÊMICA
 
 ### **Bacharelado em Engenharia de Software**
@@ -115,7 +117,7 @@ Universidade Federal do Cariri (UFCA) — Previsão de conclusão: 2028
 - CS50X — Harvard University (2025)
 - CS50 Python — Harvard University (2025)
 
-═══════════════════════════════════════════════════════════════
+---
 
 ## DIFERENCIAIS
 
@@ -124,7 +126,7 @@ Universidade Federal do Cariri (UFCA) — Previsão de conclusão: 2028
 - **Qualidade de código:** Configuração profissional de linters, formatadores, hooks e validação de commits em todos os repositórios
 - **Perfil Fullstack completo:** Frontend (React/Next.js) + Backend (Node.js/Flask) + Banco de Dados (PostgreSQL/SQLite) + Infraestrutura (Docker/CI)
 
-═══════════════════════════════════════════════════════════════
+---
 
 ## IDIOMAS
 
